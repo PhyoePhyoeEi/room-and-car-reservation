@@ -87,4 +87,3 @@ npm run dev
 
 Open in your browser and navigate to [http://127.0.0.1:5173]. You access the back-end on [http://127.0.0.1:8000].
 
-## `Stay safe 😷`
