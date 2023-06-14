@@ -1,6 +1,6 @@
 # Reservations_Frontend
 
-# Group-2 => Meeting Room and Car Reservation System
+# Meeting Room and Car Reservation System
 A meeting room and car reservation system built with Laravel,MySQL,SCSS and ReactTS.
 
 ### Solution
